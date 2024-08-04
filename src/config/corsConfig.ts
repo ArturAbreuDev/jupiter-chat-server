@@ -1,7 +1,8 @@
 import { ORIGIN } from './env';
 
 export const corsOptions = {
-  origin: ORIGIN,
+  origin: 'https://jupiter-chat-nine.vercel.app',
   methods: ['GET', 'POST', 'DELETE'],
   credentials: true,
+  allowedHeaders: ['Content-Type']
 };
