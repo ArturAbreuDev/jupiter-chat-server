@@ -20,7 +20,7 @@ npm ou yarn ou pnpm
 ## Instalação
 Clone este repositório:
 ```bash 
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/ArturAbreuDev/jupiter-chat-server.git
 ```
 Navegue até o diretório do projeto:
 ```bash 
